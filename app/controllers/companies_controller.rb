@@ -12,9 +12,9 @@ class CompaniesController < ApplicationController
     # render companies/show view with details about Company
   end
 
-  # def new
-  #   # render view with new Company form
-  # end
+  def new
+    # render view with new Company form
+  end
 
   # def create
   #   # start with a new Company
